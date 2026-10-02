@@ -1,0 +1,15 @@
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\bin\Debug\net8.0-windows\TechMartProductManager.exe
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\bin\Debug\net8.0-windows\TechMartProductManager.deps.json
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\bin\Debug\net8.0-windows\TechMartProductManager.runtimeconfig.json
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\bin\Debug\net8.0-windows\TechMartProductManager.dll
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\bin\Debug\net8.0-windows\TechMartProductManager.pdb
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.AssemblyInfoInputs.cache
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.AssemblyInfo.cs
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.csproj.CoreCompileInputs.cache
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.dll
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\obj\Debug\net8.0-windows\refint\TechMartProductManager.dll
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.pdb
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\obj\Debug\net8.0-windows\TechMartProductManager.genruntimeconfig.cache
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\obj\Debug\net8.0-windows\ref\TechMartProductManager.dll
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai03\TechMartProductManager\obj\Debug\net8.0-windows\TechMart.91035920.Up2Date

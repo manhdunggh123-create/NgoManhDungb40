@@ -1,0 +1,15 @@
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\bin\Debug\net8.0\AutoSpeed.exe
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\bin\Debug\net8.0\AutoSpeed.deps.json
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\bin\Debug\net8.0\AutoSpeed.runtimeconfig.json
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\bin\Debug\net8.0\AutoSpeed.dll
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\bin\Debug\net8.0\AutoSpeed.pdb
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.AssemblyInfoInputs.cache
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.AssemblyInfo.cs
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.csproj.CoreCompileInputs.cache
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.dll
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\refint\AutoSpeed.dll
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.pdb
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.genruntimeconfig.cache
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\ref\AutoSpeed.dll
+C:\Users\Hanh\OneDrive\Ảnh\kientra01_moi\Bai02\AutoSpeed\obj\Debug\net8.0\AutoSpeed.csproj.Up2Date
